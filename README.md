@@ -101,13 +101,7 @@ Backend:
 * **Market News View**
 * **Live Leaderboard View**
 * **Share Market View**
-
-------------
-👨‍💻 Author
-------------
-**Aaryan Goel**
-Software Engineer
-
+  
 -----------------------------------------------------------------------------------------------------
 IMP : **This Project was delivered to an actual client and was made client requirement specific.**
 -----------------------------------------------------------------------------------------------------
